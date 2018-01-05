@@ -1,3 +1,7 @@
 strength through struggle - Choi
 
+<<<<<<< HEAD
 I like green - Patel
+=======
+I like yellow - Patel
+>>>>>>> personal_colour
